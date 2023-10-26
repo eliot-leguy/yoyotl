@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoyotl
 - 👀 I’m interested in DeepLearning and computer vision
-- 🌱 I’m currently learning to use tensorflow
+- 🌱 I’m an IT studdent at Polytech Nantes
 - 📫 You can reach me on eliot.leguy@gmail.com
 
 <!---
